@@ -1,0 +1,12 @@
+POST http://localhost:/api/country
+Content-Type: application/json
+
+{"name": "Uzb"}
+
+###
+GET http://localhost/api/country/sendEmail?pochta=sirojiddinit@gmail.com&title=Qalay&xabarMatni=BuYerdaSIzningReklamangiz
+Accept: application/json
+
+###
+
+
